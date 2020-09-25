@@ -1,0 +1,4 @@
+C:\Users\Ngpoh\source\repos\FruitSalad\Debug\FruitSalad.exe
+C:\Users\Ngpoh\source\repos\FruitSalad\Debug\FruitSalad.pdb
+C:\Users\Ngpoh\Desktop\c++\FruitSalad\Debug\FruitSalad.exe
+C:\Users\Ngpoh\Desktop\c++\FruitSalad\Debug\FruitSalad.pdb

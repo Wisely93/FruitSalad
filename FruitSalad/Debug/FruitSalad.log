@@ -1,0 +1,3 @@
+﻿  FruitSalad.cpp
+C:\Users\Ngpoh\Desktop\c++\FruitSalad\FruitSalad.cpp(52,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  FruitSalad.vcxproj -> C:\Users\Ngpoh\Desktop\c++\FruitSalad\Debug\FruitSalad.exe
